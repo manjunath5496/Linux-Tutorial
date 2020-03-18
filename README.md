@@ -2263,7 +2263,7 @@ whereis cal
  <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(39).pdf" style="text-decoration:none;">Embedded Linux Projects Using Yocto Project Cookbook</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(40).pdf" style="text-decoration:none;">Guide to Assembly Language Programming in Linux </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(41).pdf" style="text-decoration:none;">Kali Linux Wireless Penetration Testing Beginner's Guide</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(41).rar" style="text-decoration:none;">Mastering Embedded Linux Programming</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(42).pdf" style="text-decoration:none;">Linux Apache Web Server Administration</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(43).pdf" style="text-decoration:none;">Linux for Developers: Jumpstart Your Linux Programming Skills</a></li>                              

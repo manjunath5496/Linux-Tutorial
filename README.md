@@ -2199,4 +2199,91 @@ whereis cal
 
 
 
+<ul>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(5).pdf" style="text-decoration:none;">Basic Security Testing with Kali Linux</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(6).pdf" style="text-decoration:none;">Beginning Ethical Hacking with Kali Linux</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(7).pdf" style="text-decoration:none;">Sams Teach Yourself Linux in 24 Hours</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(8).pdf" style="text-decoration:none;">Hands-On System Programming with Linux</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(9).pdf" style="text-decoration:none;">Kali Linux – Assuring Security by Penetration Testing</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(10).pdf" style="text-decoration:none;">Kali Linux Cookbook</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(11).pdf" style="text-decoration:none;">Kali Linux Network Scanning Cookbook</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(12).pdf" style="text-decoration:none;">Kali Linux Wireless Penetration Testing Beginner's Guide</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(13).pdf" style="text-decoration:none;">Linux All-in-One Desk Reference For Dummies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(14).pdf" style="text-decoration:none;">Linux for Beginners: The Ultimate Guide To The Linux Operating System and Linux Commands</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(15).pdf" style="text-decoration:none;">Linux Command Line (Cover All Essential Linux Commands): A Beginner's Guide</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(16).pdf" style="text-decoration:none;">Linux Command Line and Shell Scripting Bible</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(17).pdf" style="text-decoration:none;">Linux Servers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(18).pdf" style="text-decoration:none;">Mastering Embedded Linux Programming</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(19).pdf" style="text-decoration:none;">Mastering Kali Linux Wireless Pentesting</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(20).pdf" style="text-decoration:none;">The Linux Programming Interface</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(21).pdf" style="text-decoration:none;">Assembly Language Step-by-Step: Programming with Linux</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(22).pdf" style="text-decoration:none;">Embedded Linux system development</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(23).rar" style="text-decoration:none;">Linux Bible</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(24).pdf" style="text-decoration:none;">Operating System Concepts and Basic Linux Commands</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(25).pdf" style="text-decoration:none;">Go Systems Programming</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(26).pdf" style="text-decoration:none;">Shell Scripting: Expert Recipes for Linux, Bash, and More</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(27).pdf" style="text-decoration:none;">CompTIA Linux+ Powered by Linux Professional Institute Study Guide</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(28).pdf" style="text-decoration:none;">The Linux Command Line: A Complete Introduction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(29).pdf" style="text-decoration:none;">Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(30).pdf" style="text-decoration:none;">Hacking Exposed Linux: Linux Security Secrets and Solutions</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(31).pdf" style="text-decoration:none;">Web Penetration Testing with Kali Linux</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(32).pdf" style="text-decoration:none;">Penetration Testing with Raspberry Pi</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(33).pdf" style="text-decoration:none;">Learn the Basics of Linux in 2 Weeks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(34).pdf" style="text-decoration:none;">The Ultimate Step by Step Guide to Quickly and Easily Learning Linux</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(35).pdf" style="text-decoration:none;">Mastering Linux Shell Scripting</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(36).pdf" style="text-decoration:none;">Python for Unix and Linux System Administration</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(37).pdf" style="text-decoration:none;">CompTIA Linux+ and LPIC Practice Tests</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(38).pdf" style="text-decoration:none;">CompTIA Linux+ Guide to Linux Certification</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(39).pdf" style="text-decoration:none;">Embedded Linux Projects Using Yocto Project Cookbook</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(40).pdf" style="text-decoration:none;">Guide to Assembly Language Programming in Linux </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(41).pdf" style="text-decoration:none;">Kali Linux Wireless Penetration Testing Beginner's Guide</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(42).pdf" style="text-decoration:none;">Linux Apache Web Server Administration</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(43).pdf" style="text-decoration:none;">Linux for Developers: Jumpstart Your Linux Programming Skills</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(44).pdf" style="text-decoration:none;">Linux in a Nutshell</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(45).pdf" style="text-decoration:none;">Linux Malware Incident Response: A Practitioner's Guide to Forensic Collection and Examination of
+Volatile Data</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(46).pdf" style="text-decoration:none;">Linux Shell Scripting with Bash</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(47).pdf" style="text-decoration:none;">Mastering Linux Network Administration</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(48).pdf" style="text-decoration:none;">Modern Linux Administration</a></li>  
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(49).pdf" style="text-decoration:none;">A Practical Guide to Linux Commands, Editors, and Shell Programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(50).pdf" style="text-decoration:none;">Red Hat Linux Networking and System Administration</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(51).rar" style="text-decoration:none;">Linux Mint Essentials</a></li> 
+
+
+
+
+</ul>
+
+</br>
 

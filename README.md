@@ -12,7 +12,7 @@
 <table class="infobox vevent">
 <tbody>
 <tr>
-<td colspan="2"><a class="image" title="Tux the penguin" href="Tux.png" srcset="Tux.png" alt="Tux the penguin" width="150" height="177" data-file-width="280" data-file-height="330" /></a>
+<td colspan="2"><a class="image" title="Tux the penguin" href="Tux.png" srcset="Tux.png" alt="Tux the penguin" width="150" height="177" data-file-width="280" data-file-height="330" /><img src="Tux.png" srcset="Tux.png" alt="Tux the penguin" width="150" height="177" data-file-width="280" data-file-height="330" /></a>
 <div><a title="Tux (mascot)" href="https://en.wikipedia.org/wiki/Tux_(mascot)">Tux</a>&nbsp;the&nbsp;<a title="Penguin" href="https://en.wikipedia.org/wiki/Penguin">penguin</a>, mascot of Linux</div>
 </td>
 </tr>

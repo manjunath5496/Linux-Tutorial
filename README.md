@@ -117,6 +117,7 @@
 </li>
 <li class="toclevel-1 tocsection-30"><a href="#Market_share_and_uptake"><span class="toctext">Market share and uptake</span></a></li>
 <li class="toclevel-1 tocsection-31"><a href="#Copyright,_trademark,_and_naming"><span class="toctext">Copyright, trademark, and naming</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#Linux Commands"><span class="toctext">Important Linux Commands You Should Know</span></a></li>  
 </ul>
 
 </br>
@@ -367,3 +368,1816 @@ Linux is ubiquitously found on various types of hardware.</div>
 <p>The&nbsp;<a title="Free Software Foundation" href="https://en.wikipedia.org/wiki/Free_Software_Foundation">Free Software Foundation</a>&nbsp;(FSF) prefers&nbsp;<em>GNU/Linux</em>&nbsp;as the name when referring to the operating system as a whole, because it considers Linux distributions to be&nbsp;<a title="GNU variants" href="https://en.wikipedia.org/wiki/GNU_variants">variants</a>&nbsp;of the&nbsp;<a title="GNU" href="https://en.wikipedia.org/wiki/GNU">GNU</a>&nbsp;operating system initiated in 1983 by&nbsp;<a title="Richard Stallman" href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard Stallman</a>, president of the FSF.&nbsp;They explicitly take no issue over the name Android for the Android OS, which is also an operating system based on the Linux kernel, as GNU is not a part of it.</p>
 <p>A minority of public figures and software projects other than Stallman and the FSF, notably&nbsp;<a title="Debian" href="https://en.wikipedia.org/wiki/Debian">Debian</a>&nbsp;(which had been sponsored by the FSF up to 1996),&nbsp;also use&nbsp;<em>GNU/Linux</em>&nbsp;when referring to the operating system as a whole.&nbsp;Most media and common usage, however, refers to this family of operating systems simply as&nbsp;<em>Linux</em>, as do many large Linux distributions (for example,&nbsp;<a title="SUSE Linux" href="https://en.wikipedia.org/wiki/SUSE_Linux">SUSE Linux</a>&nbsp;and&nbsp;<a title="Red Hat Enterprise Linux" href="https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux">Red Hat Enterprise Linux</a>). By contrast, Linux distributions containing only free software use "GNU/Linux" or simply "GNU", such as&nbsp;<a class="mw-redirect" title="Trisquel GNU/Linux" href="https://en.wikipedia.org/wiki/Trisquel_GNU/Linux">Trisquel GNU/Linux</a>,&nbsp;<a title="Parabola GNU/Linux-libre" href="https://en.wikipedia.org/wiki/Parabola_GNU/Linux-libre">Parabola GNU/Linux-libre</a>,&nbsp;<a title="BLAG Linux and GNU" href="https://en.wikipedia.org/wiki/BLAG_Linux_and_GNU">BLAG Linux and GNU</a>, and&nbsp;<a title="GNewSense" href="https://en.wikipedia.org/wiki/GNewSense">gNewSense</a>.</p>
 <p>As of May&nbsp;2011, about 8% to 13% of a modern Linux distribution is made of GNU components (the range depending on whether&nbsp;<a title="GNOME" href="https://en.wikipedia.org/wiki/GNOME">GNOME</a>&nbsp;is considered part of GNU), as determined by counting&nbsp;<a title="Source lines of code" href="https://en.wikipedia.org/wiki/Source_lines_of_code">lines of source code</a>&nbsp;making up Ubuntu's "Natty" release; meanwhile, 6% is taken by the Linux kernel, increased to 9% when including its direct dependencies.</p>
+</br>
+
+<h2 id ="Linux Commands">Important Linux Commands You Should Know </h2>
+
+
+<p>The&nbsp;<a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank" rel="nofollow noopener"><strong>command-line interface</strong></a><strong>&nbsp;</strong>is one of the nearly all well built trademarks of&nbsp;<a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="nofollow noopener"><strong>Linux</strong></a>. There exists an&nbsp;ocean of&nbsp;<strong>Linux commands</strong>, permitting you to do nearly everything you can be under the impression of doing on your&nbsp;Linux&nbsp;<a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank" rel="nofollow noopener">operating system</a>. Although, this to the end of time creates a problem: by all of so&nbsp;copious commands&nbsp;accessible to manage, you don't comprehend where and at which point to fly learning them, especially when you are learner. If you are facing this problem, and are peering for a painless method to begin your command line journey in Linux, you've come to the right place, as in this, we will launch you to a hold of well liked and&nbsp;<strong>helpful Linux commands</strong>.&nbsp;</p>
+<hr>
+
+
+### **Description:**
+> ***Display system date and time.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+date
+```
+----------------------------------------
+
+### **Description:**
+> ***Display calendar.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cal
+```
+----------------------------------------
+
+### **Description:**
+> ***Display date, time and calendar.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+date & cal
+```
+----------------------------------------
+
+### **Description:**
+> ***Display August month 2016 year calendar.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cal 8 2016
+```
+----------------------------------------
+
+### **Description:**
+> ***Used to clear the terminal window.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+clear
+```
+----------------------------------------
+
+### **Description:**
+> ***Exit from the terminal window.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+exit
+```
+----------------------------------------
+
+### **Description:**
+> ***Display free and used system memory.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+free
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display free and used system memory in bytes.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+free  -b
+```
+----------------------------------------
+
+### **Description:**
+> ***Display free and used system memory in kilobytes.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+free  -k
+```
+----------------------------------------
+
+### **Description:**
+> ***Display free and used system memory in megabytes.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+free  -m
+```
+----------------------------------------
+
+### **Description:**
+> ***Change user password.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+passwd
+```
+----------------------------------------
+
+### **Description:**
+> ***Power-off the machine.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+shutdown
+```
+----------------------------------------
+
+### **Description:**
+> ***Power-off the machine immediately.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+shutdown  -h now
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Power-off the machine after 10 minutes.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+shutdown  -h +10
+```
+----------------------------------------
+
+### **Description:**
+> ***Print current working directory.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+echo $PWD
+```
+----------------------------------------
+
+### **Description:**
+> ***Print previous working directory.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+echo $OLDPWD
+```
+----------------------------------------
+
+### **Description:**
+> ***Executes the 11th command in command history.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+!11
+```
+----------------------------------------
+
+### **Description:**
+> ***Reveals your command history.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+history
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Power off or reboot the Operating system.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+sudo reboot
+```
+----------------------------------------
+
+### **Description:**
+> ***Display the IP address of the host.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ip address
+```
+----------------------------------------
+
+### **Description:**
+> ***List the size of files and directories.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ls  -s
+```
+----------------------------------------
+
+
+### **Description:**
+> ***View mounted file systems.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+mount
+```
+----------------------------------------
+
+### **Description:**
+> ***Display the information of disk usage of files and directories.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+du
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Tells you how long the system has been running.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+uptime
+```
+----------------------------------------
+
+### **Description:**
+> ***Set current date as 02 Nov 1988.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+date -- set 1998-11-02
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Set current time as 12:11:02 IST.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+date -- set 12:11:02
+```
+----------------------------------------
+
+### **Description:**
+> ***View and change the configuration of the network interfaces on the system.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ifconfig
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Lists files.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ls
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Report the process information.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ps
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display disk usage.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+df
+```
+----------------------------------------
+
+### **Description:**
+> ***Display disk usage in gigabytes, megabytes, or kilobytes.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+df  -H
+```
+----------------------------------------
+
+### **Description:**
+> ***Delete every file and every directory.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+rm  -r *
+```
+----------------------------------------
+
+### **Description:**
+> ***Provides a quick overview of the currently running processes.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+top
+```
+----------------------------------------
+
+### **Description:**
+> ***The system performs an immediate reboot.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+reboot
+```
+----------------------------------------
+
+### **Description:**
+> ***Terminate processes without having to log out or reboot.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+kill
+```
+----------------------------------------
+
+### **Description:**
+> ***Change the current working directory.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cd
+```
+----------------------------------------
+
+### **Description:**
+> ***Create a new session on the system.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+login
+```
+----------------------------------------
+
+
+### **Description:**
+> ***List open files.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+lsof
+```
+----------------------------------------
+
+### **Description:**
+> ***List USB devices.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+lsusb
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Check the status of the network services.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+service network status
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Start the network service.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+service network start
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Stop the network service.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+service network stop
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Restart the network service.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+service network restart
+```
+----------------------------------------
+
+### **Description:**
+> ***Report information about the users currently on the machine and their processes.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+w
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display the current directory.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+pwd
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Displays CPU architecture information (such as number of CPUs, threads, cores, sockets, and more).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+lscpu
+```
+----------------------------------------
+
+### **Description:**
+> ***Displays the number of processing units available to the current process.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+nproc
+```
+----------------------------------------
+
+### **Description:**
+> ***The system performs an immediate reboot.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+init 6
+```
+----------------------------------------
+
+### **Description:**
+> ***Power-off the machine.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+init 0
+```
+----------------------------------------
+
+### **Description:**
+> ***List files by date.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ls -lrt
+```
+----------------------------------------
+
+### **Description:**
+> ***Report information about storage devices such as hard disks, flash drives etc.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+lsblk
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Show exit status of previous command.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+echo $?
+```
+----------------------------------------
+
+### **Description:**
+> ***Lists a few useful info commands.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+info
+```
+----------------------------------------
+
+### **Description:**
+> ***Prints current year's calendar.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cal -y 
+```
+----------------------------------------
+
+### **Description:**
+> ***Check the status of all the services.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+service --status-all 
+```
+----------------------------------------
+
+### **Description:**
+> ***Display time in hh:mm:ss.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+date +%T
+```
+----------------------------------------
+
+### **Description:**
+> ***Tells when the user last logged on and off and from where.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+last  -1 username
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Sort files and directories by extension name.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ls  -X
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display the manual for the pwd command.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+man pwd
+```
+----------------------------------------
+
+### **Description:**
+> ***Displays  information about running processes in the form of a tree.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+pstree
+```
+----------------------------------------
+
+### **Description:**
+> ***Resets your terminal.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+reset
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Displays What date is it this Friday.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+date -d fri
+```
+----------------------------------------
+
+### **Description:**
+> ***Displays the size of each individual file.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+du  -a
+```
+----------------------------------------
+
+### **Description:**
+> ***Display information about the Advanced configuration and power Interface.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+acpi
+```
+----------------------------------------
+
+### **Description:**
+> ***Takes you two folders back.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cd ../..
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Takes you to the previous directory.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cd -
+```
+----------------------------------------
+
+### **Description:**
+> ***Displays a list of shell built-in commands.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+help
+```
+----------------------------------------
+
+### **Description:**
+> ***Lists your last logins.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+last yourusername
+```
+----------------------------------------
+
+### **Description:**
+> ***Create a new directory called myfiles.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+mkdir myfiles
+```
+----------------------------------------
+
+### **Description:**
+> ***Remove the directory myfiles.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+rmdir myfiles
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Disable password for a specific user "root1".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+passwd -d root1
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Switch to user "root1".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+sudo su root1
+```
+----------------------------------------
+
+### **Description:**
+> ***Exit from the terminal window.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+logout
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Creates a user "root1".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+useradd "root1"
+```
+----------------------------------------
+
+### **Description:**
+> ***Assign password to user "root1".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+passwd "root1"
+```
+----------------------------------------
+
+### **Description:**
+> ***Repeats the last command.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+!!
+```
+----------------------------------------
+
+### **Description:**
+> ***Display Who you are logged in as.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+whoami
+```
+----------------------------------------
+
+### **Description:**
+> ***Display the login name of the current user.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+logname
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Report the name of the kernel.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+uname
+```
+----------------------------------------
+
+### **Description:**
+> ***Print the kernel version.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+uname  -v
+```
+----------------------------------------
+
+### **Description:**
+> ***Print the operating system.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+uname  -o
+```
+----------------------------------------
+
+### **Description:**
+> ***Report the machine hardware name.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+uname  -m
+```
+----------------------------------------
+
+### **Description:**
+> ***Print version information and exit.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+uname  --version
+```
+----------------------------------------
+
+### **Description:**
+> ***Print the kernel release.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+uname  -r
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Report the network node hostname.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+uname  -n
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display all port connections (both TCP and UDP).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+netstat  -a
+```
+----------------------------------------
+
+### **Description:**
+> ***Display only TCP (Transmission Control Protocol) port connections.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+netstat  -at
+```
+----------------------------------------
+
+### **Description:**
+> ***Display only UDP (User Datagram Protocol) port connections.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+netstat  -au
+```
+----------------------------------------
+
+### **Description:**
+> ***Display all active listening ports.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+netstat  -I
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display all active listening TCP ports.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+netstat  -It
+```
+----------------------------------------
+
+### **Description:**
+> ***Display all active listening UDP ports.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+netstat  -lu
+```
+----------------------------------------
+
+### **Description:**
+> ***Reveal all the information about the current user (user id, username, group id, group name etc.).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+id
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Reveal all the information about the user "root1" (user id, username, group id, group name etc.).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+id  root1
+```
+----------------------------------------
+
+### **Description:**
+> ***Print the machine's architecture.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+arch
+```
+----------------------------------------
+
+### **Description:**
+> ***Display the list of available fonts.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+fc-list
+```
+----------------------------------------
+
+### **Description:**
+> ***Create two directories (myfiles, files).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+mkdir myfiles files
+```
+----------------------------------------
+
+### **Description:**
+> ***install apache (CentOS).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+yum install httpd
+```
+----------------------------------------
+
+### **Description:**
+> ***install apache (Ubuntu).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+apt install httpd
+```
+----------------------------------------
+
+### **Description:**
+> ***upgrade apache (CentOS).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+yum update httpd
+```
+----------------------------------------
+
+### **Description:**
+> ***upgrade apache (Ubuntu).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+apt update httpd
+```
+----------------------------------------
+
+### **Description:**
+> ***uninstall apache (CentOS).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+yum remove httpd
+```
+----------------------------------------
+
+### **Description:**
+> ***uninstall apache (Ubuntu).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+apt remove httpd
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display usage summary for the command (date).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+date --help
+```
+----------------------------------------
+
+### **Description:**
+> ***List active connections to/from system.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ss -tup
+```
+----------------------------------------
+
+### **Description:**
+> ***List internet services on a system.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ss -tupl
+```
+----------------------------------------
+
+### **Description:**
+> ***Display all active UNIX listening ports.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+netstat  -lx
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display all the active interfaces details.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ifconfig
+```
+----------------------------------------
+
+### **Description:**
+> ***Display information of all network interfaces.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ifconfig  -a
+```
+----------------------------------------
+
+### **Description:**
+> ***Compare the contents of two files (1.txt, 2.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+diff 1.txt 2.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Tells you how many lines, words, and characters there are in a file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+wc 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Compresses file (1.txt), so that it take up much less space.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+gzip 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Uncompresses file (1.txt) compressed by gzip.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+gunzip 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Examine the contents of the file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cat 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Display calendar.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ncal
+```
+----------------------------------------
+
+### **Description:**
+> ***Removes the file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+rm 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Rename a file named 1.txt to 0.txt.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+mv 1.txt 0.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Replace the contents of 0.txt with that of 1.txt.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cp 1.txt 0.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Create a empty file (test.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+touch test.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Print the last 10 lines of a file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+tail 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Print N number of lines from the file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+tail  -n N 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Prints the number of words in a file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+wc -w 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Prints the number of characters from a file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+wc -m 1.txt
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Prints the length of the longest line in a file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+wc -L 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Print information about usb ports, graphics cards, network adapters etc.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+lspci
+```
+----------------------------------------
+
+### **Description:**
+> ***View contents of a file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+less 1.txt
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Display calendar (last month, current month, and next month).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cal -3
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Compare the contents of three files (1.txt, 2.txt, 3.txt) line by line.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+diff3 1.txt 2.txt 3.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Compare two files (1.txt, 2.txt) line-by-line.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+comm 1.txt 2.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Perform byte-by-byte comparison of two files (1.txt, 2.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cmp 1.txt 2.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Prints the CRC checksum and byte count for the file "myfiles.txt".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cksum myfiles.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Append contents of files (1.txt, 2.txt) into one file (0.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+cat 1.txt 2.txt > 0.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Append contents of files (1.txt, 2.txt, 3.txt) into one file (0.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+sed  r 1.txt 2.txt 3.txt > 0.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Append contents of files (1.txt, 2.txt, 3.txt) into one file (0.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+sed  h 1.txt 2.txt 3.txt > 0.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Append contents of files (1.txt, 2.txt, 3.txt) into one file (0.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+sed  -n  p 1.txt 2.txt 3.txt > 0.txt
+```
+----------------------------------------
+
+</br>
+<p><strong>Shortcuts: </strong> </p>
+
+```
+| ctrl+c           | Halts the current command           |  
+| ctrl+z           | Stops the current command           |  
+|                  |                                     |   
+| ctrl+d           | Logout the current session          | 
+| ctrl+w           | Erases one word in the current line | 
+|                  |                                     | 
+| ctrl+u           | Erases the whole line               | 
+| ctrl+r           | Type to bring up a recent command   | 
+ 
+```
+</br>
+
+### **Description:**
+> ***Writes contents of a file (0.txt) to output, and prepends each line with line number.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+nl 0.txt
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Create a empty file (test1.txt) inside a directory (test).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+mkdir test 
+cd test 
+pwd 
+touch test1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Gather information about hardware components such as CPU, disks, memory, USB controllers etc.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+sudo lshw
+```
+----------------------------------------
+
+### **Description:**
+> ***Gather information about file system partitions.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+sudo fdisk -l
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Displays the line (good morning) in which the string (good) is found in the file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+grep good 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Append contents of files (1.txt, 2.txt, 3.txt) into one file (0.txt) using for loop.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+for i in {1..3}; do cat "$i.txt" >> 0.txt; done
+```
+----------------------------------------
+
+### **Description:**
+> ***Search for files (test.txt, test1.txt, test2.txt, test.php, test.html) in a directory as well as its sub-directories.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+find test*
+```
+----------------------------------------
+
+### **Description:**
+> ***Displays status related to a file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+stat 1.txt
+```
+----------------------------------------
+
+
+```
+
+### 
+|     Command      |  Description       | 
+|:-----------------|-------------:      |
+| vi               | Open vi editor     |  
+| i                | Go to Insert mode  | 
+|                  |                    | 
+| a =20; b =64;    |                    | 
+| print (a + b);   |                    | 
+| Hit Escape to return to Normal mode.  |               
+| :w hello.py      | Save text          | 
+| :q               | Quit               | 
+| python hello.py  |Print the output:84 | 
+ 
+
+```
+
+### **Description:**
+> ***Download the file (file.txt) from url "http: //website.com/files/file.txt".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+wget http://website.com/files/file.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Display host's numeric ID in hexadecimal format.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+hostid
+```
+----------------------------------------
+
+### **Description:**
+> ***Display file type of the file (myfiles.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+file myfiles.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Create a file (myfiles.txt) containing a text (Hello World).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+echo 'Hello World' > myfiles.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Create a file (myfiles.txt) containing a text (Hello World).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+printf 'Hello World' > myfiles.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Display IP address of the hostname.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+hostname  -i
+```
+----------------------------------------
+
+### **Description:**
+> ***Add a new line of text to an existing file (1.txt).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+echo "Hello world!" >> 1.txt 
+echo "this is 2nd line text" >> 1.txt
+echo "last line!" >> 1.txt
+```
+----------------------------------------
+
+### **Description:**
+> ***Displays a single line description about a command (cal).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+whatis cal
+```
+----------------------------------------
+
+```
+
+### 
+|     Command      |  Description       | 
+|:-----------------|-------------:      |
+| vi               | Open vi editor     |  
+| i                | Go to Insert mode  | 
+| Type some text.  |                    | 
+| Hit Escape to return to Normal mode.  |               
+| :w test.txt      | Save text          | 
+| :q               | Quit               | 
+| :q!              |Quit without saving | 
+ 
+
+```
+```
+### 
+|     Command      |  Description          | 
+|:-----------------|-------------:         |
+| vi               | Open vi editor        |  
+| i                | Go to Insert mode     | 
+| $name = "Paul";  |                       | 
+| print "$name";   |                       | 
+| Hit Escape to return to Normal mode.     |               
+| :w hello.pl      | Save text             | 
+| :q               | Quit                  | 
+| perl hello.pl    |Print the output: Paul | 
+ 
+
+```
+
+```
+### 
+|     Command                |  Description           | 
+|:---------------------------|-------------:          |
+| vi                         | Open vi editor         |  
+| i                          | Go to Insert mode      | 
+| echo "What is your name?"  |                        | 
+| read PERSON                |                        |
+| echo "Hello, $PERSON"      |                        |
+| Hit Escape to return to Normal mode.                |               
+| :w hello.sh                | Save text              | 
+| :q                         | Quit                   | 
+| sh hello.sh                | Output:                | 
+|                            | What is your name?     |  
+|                            | If you enter: Zara Ali |  
+|                            | Hello, Zara Ali        | 
+
+```
+### **Description:**
+> ***Check the network connectivity between host (your connection) and server (Google server).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+ping google.com
+```
+----------------------------------------
+
+### **Description:**
+> ***Find the location of source/binary file of a command (cal).***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```linux
+whereis cal
+```
+----------------------------------------
+
+ </br>
+
+
+
+
+
+

@@ -78,9 +78,48 @@
 </br>
 
 
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Precursors"><span class="toctext">Precursors</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Creation"><span class="toctext">Creation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Naming"><span class="toctext">Naming</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Commercial_and_popular_uptake"><span class="toctext">Commercial and popular uptake</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Current_development"><span class="toctext">Current development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Design"><span class="toctext">Design</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#User_interface"><span class="toctext">User interface</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Video_input_infrastructure"><span class="toctext">Video input infrastructure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Development"><span class="toctext">Development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Community"><span class="toctext">Community</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Programming_on_Linux"><span class="toctext">Programming on Linux</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Hardware_support"><span class="toctext">Hardware support</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Uses"><span class="toctext">Uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Desktop"><span class="toctext">Desktop</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Netbooks"><span class="toctext">Netbooks</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Servers,_mainframes_and_supercomputers"><span class="toctext">Servers, mainframes and supercomputers</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Smart_devices"><span class="toctext">Smart devices</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Embedded_devices"><span class="toctext">Embedded devices</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Gaming"><span class="toctext">Gaming</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Specialized_uses"><span class="toctext">Specialized uses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Market_share_and_uptake"><span class="toctext">Market share and uptake</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Copyright,_trademark,_and_naming"><span class="toctext">Copyright, trademark, and naming</span></a></li>
+</ul>
 
-
-
+</br>
 
 
 

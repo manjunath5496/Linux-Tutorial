@@ -2302,7 +2302,30 @@ Volatile Data</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(66).pdf" style="text-decoration:none;">The Art of Linux Kernel Design: Illustrating the Operating System Design Principle and Implementation </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(67).pdf" style="text-decoration:none;">Linux Tips, Tricks, Apps and Hacks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(68).pdf" style="text-decoration:none;">Linux: Powerful Server Administration</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(69).pdf" style="text-decoration:none;">Linux Dictionary</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(70).pdf" style="text-decoration:none;">Pro SQL Server on Linux: Including Container-Based Deployment with Docker and Kubernetes</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(71).pdf" style="text-decoration:none;">The Basics of Hacking and Penetration Testing</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(72).pdf" style="text-decoration:none;">Linux Starter Pack</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(73).rar" style="text-decoration:none;">Ubuntu Unleashed</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(74).pdf" style="text-decoration:none;">Understanding Linux Network Internals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(75).pdf" style="text-decoration:none;">Arch Linux Handbook: A Simple, Lightweight Linux Handbook</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(76).pdf" style="text-decoration:none;">Automating Linux and Unix System Administration</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(77).pdf" style="text-decoration:none;">CentOS High Availability</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(78).pdf" style="text-decoration:none;">Kali Linux CTF Blueprints</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(79).pdf" style="text-decoration:none;">Linux in Action</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(80).pdf" style="text-decoration:none;">Linux in Easy Steps: Illustrated Using Linux Mint</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(81).pdf" style="text-decoration:none;">Linux Pocket Guide</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(82).pdf" style="text-decoration:none;">CentOS 7 Linux Server Cookbook </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(83).pdf" style="text-decoration:none;">Linux Essentials for Cybersecurity</a></li>
 </ul>
 
 </br>

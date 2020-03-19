@@ -2328,7 +2328,7 @@ Volatile Data</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(83).pdf" style="text-decoration:none;">Linux Essentials for Cybersecurity</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(84).pdf" style="text-decoration:none;">Algorithms for Sensor Systems: 14th International Symposium on Algorithms and Experiments for Wireless Sensor Networks, ALGOSENSORS 2018 Helsinki, Finland, August 23–24, 2018 Revised Selected Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(84).pdf" style="text-decoration:none;">Linux 101 Hacks: Practical Examples to Build a Strong Fundation in Linux</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(85).pdf" style="text-decoration:none;">Advanced Linux Programming</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(86).pdf" style="text-decoration:none;">LPI Linux Certification in a Nutshell</a></li>                              

@@ -2281,9 +2281,30 @@ Volatile Data</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(51).rar" style="text-decoration:none;">Linux Mint Essentials</a></li> 
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(52).pdf" style="text-decoration:none;">Advanced Raspberry Pi: Raspbian Linux and GPIO Integration</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(53).pdf" style="text-decoration:none;">Linux Mint System Administrator's Beginner's Guide</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(54).pdf" style="text-decoration:none;">Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(55).pdf" style="text-decoration:none;">How Linux Works: What Every Superuser Should Know</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(56).pdf" style="text-decoration:none;">Kali Linux Revealed: Mastering the Penetration Testing Distribution</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(57).pdf" style="text-decoration:none;">Mastering CentOS 7 Linux Server</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(58).pdf" style="text-decoration:none;">Linux Kernel Development</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(59).rar" style="text-decoration:none;">Kubernetes Management Design Patterns: With Docker, CoreOS Linux, and Other Platforms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(60).pdf" style="text-decoration:none;">Kali Linux Social Engineering</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(61).pdf" style="text-decoration:none;">Learn CentOS Linux Network Services</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(62).pdf" style="text-decoration:none;">Linux: The Complete Reference</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(63).pdf" style="text-decoration:none;">Data Analytics and Linux Operating System 2 Bundle Manuscript</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(64).pdf" style="text-decoration:none;">Intermediate Security Testing with Kali Linux 2</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(65).rar" style="text-decoration:none;">Malware Forensics Field Guide for Linux Systems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(66).pdf" style="text-decoration:none;">The Art of Linux Kernel Design: Illustrating the Operating System Design Principle and Implementation </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(67).pdf" style="text-decoration:none;">Linux Tips, Tricks, Apps and Hacks</a></li>
 
 </ul>
 
 </br>
+
 

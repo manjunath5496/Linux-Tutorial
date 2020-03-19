@@ -2374,7 +2374,7 @@ Volatile Data</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(109).pdf" style="text-decoration:none;">Linux: The Textbook</a></li>
 
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(110).pdf" style="text-decoration:none;">Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems</a></li>
 
 </ul>
 

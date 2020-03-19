@@ -2335,7 +2335,7 @@ Volatile Data</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(87).pdf" style="text-decoration:none;">MX-16 Users Manual</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(88).pdf" style="text-decoration:none;">SuSE Linux Desktop</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(89).rar" style="text-decoration:none;">Linux Mint Essentials</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(89).pdf" style="text-decoration:none;">Command Line Kung Fu: Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(90).pdf" style="text-decoration:none;">Beginning Robotics with Raspberry Pi and Arduino: Using Python and OpenCV</a></li>
 

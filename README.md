@@ -2326,6 +2326,56 @@ Volatile Data</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(81).pdf" style="text-decoration:none;">Linux Pocket Guide</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(82).pdf" style="text-decoration:none;">CentOS 7 Linux Server Cookbook </a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(83).pdf" style="text-decoration:none;">Linux Essentials for Cybersecurity</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(84).pdf" style="text-decoration:none;">Algorithms for Sensor Systems: 14th International Symposium on Algorithms and Experiments for Wireless Sensor Networks, ALGOSENSORS 2018 Helsinki, Finland, August 23–24, 2018 Revised Selected Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(85).pdf" style="text-decoration:none;">Advanced Linux Programming</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(86).pdf" style="text-decoration:none;">LPI Linux Certification in a Nutshell</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(87).pdf" style="text-decoration:none;">MX-16 Users Manual</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(88).pdf" style="text-decoration:none;">SuSE Linux Desktop</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(89).rar" style="text-decoration:none;">Linux Mint Essentials</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(90).pdf" style="text-decoration:none;">Beginning Robotics with Raspberry Pi and Arduino: Using Python and OpenCV</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(91).pdf" style="text-decoration:none;">Cracking the Coding Interview: 150 Programming Questions and Solutions</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(92).pdf" style="text-decoration:none;">DevOps Troubleshooting: Linux Server Best Practices</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(93).pdf" style="text-decoration:none;">Essential System Administration</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(94).pdf" style="text-decoration:none;">Linux, Macintosh, and Mobile Systems</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(95).pdf" style="text-decoration:none;">Foundations of CentOS Linux: Enterprise Linux On the Cheap</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(96).pdf" style="text-decoration:none;">Learn Linux in a Month of Lunches</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(97).pdf" style="text-decoration:none;">Learn Qt 5: Build modern, responsive cross-platform desktop applications with Qt, C++, and QML</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(98).pdf" style="text-decoration:none;">Linux Administrator Street Smarts: A Real World Guide to Linux Certification Skills</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(99).pdf" style="text-decoration:none;">Linux Assembly Language Programming</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(100).pdf" style="text-decoration:none;">Linux Device Drivers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(101).pdf" style="text-decoration:none;">Linux in the Workplace</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(102).pdf" style="text-decoration:none;">Linux Journal, Issue 166, February 2008</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(103).pdf" style="text-decoration:none;">Linux System Administration Recipes: A Problem-Solution Approach</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(104).pdf" style="text-decoration:none;">Penetration Testing: A Hands-on Introduction to Hacking</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(105).pdf" style="text-decoration:none;">Pluggable Authentication Modules: The Definitive Guide to PAM for Linux SysAdmins and C Developers</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(106).pdf" style="text-decoration:none;">Red Hat Linux 7.2 Bible</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(107).pdf" style="text-decoration:none;">Pro Linux Embedded Systems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(108).pdf" style="text-decoration:none;">Mastering CentOS 7 Linux Server</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/linux(109).pdf" style="text-decoration:none;">Linux: The Textbook</a></li>
+
+
+
+
 </ul>
 
 </br>
